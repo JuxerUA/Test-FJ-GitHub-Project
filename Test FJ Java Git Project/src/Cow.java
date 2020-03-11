@@ -5,7 +5,7 @@ public class Cow implements IAnimal
 	@Override
 	public String Say()
 	{
-		return "Mooouuuu";
+		return "Muuu";
 	}
 
 	@Override
